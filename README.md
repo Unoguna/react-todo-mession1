@@ -1,12 +1,22 @@
-# React + Vite
+# 📝 React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Vite + React + Tailwind CSS로 만든 심플한 Todo 리스트 애플리케이션
 
-Currently, two official plugins are available:
+## 📸 스크린샷
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/02a5b0c6-16e4-4705-bb2f-b464337c99c6)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 주요 기능
+
+- 할 일 추가
+- 할 일 완료 체크/해제
+- 할 일 삭제
+- 로컬 스토리지 저장
+- Tailwind로 깔끔한 UI
+
+## 🛠️ 사용 기술
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)

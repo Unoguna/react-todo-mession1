@@ -1,6 +1,6 @@
 # 📝 React Todo App
 
-> Vite + React + Tailwind CSS로 만든 심플한 Todo 리스트 애플리케이션
+> Vite + React + Tailwind CSS로 만든Todo 리스트 애플리케이션
 
 ## 📸 스크린샷
 
